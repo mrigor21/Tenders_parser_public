@@ -1,0 +1,3 @@
+New tenders receivers: some_email@gmail.com, some_email_2@gmail.com
+Ended tenders receivers: some_email@gmail.com, some_email_2@gmail.com
+Send errors: True
